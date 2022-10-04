@@ -9,6 +9,7 @@ This is a web site for storing books and authors.
 - HTML
 - CSS
 - JavaScript
+- ES6
 
 ## Live Demo
 
