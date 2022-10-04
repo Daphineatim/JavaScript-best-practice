@@ -9,10 +9,11 @@ This is a web site for storing books and authors.
 - HTML
 - CSS
 - JavaScript
+- ES6
 
 ## Live Demo
 
-[Ckeckout The live Site here]()
+[Ckeckout The live Site here](https://daphineatim.github.io/To-do-list/)
 
 ## Getting started
 
